@@ -1,0 +1,9 @@
+# Exclude build files
+/target
+
+# Exclude test files
+*.hex
+*.tar
+
+# Exclude IDE files
+/.vscode
